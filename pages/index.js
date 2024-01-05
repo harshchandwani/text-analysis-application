@@ -65,9 +65,9 @@ export default function Home() {
 			<div className="absolute bottom-0 flex justify-center items-end h-52 md:h-44">
 				<p className="text-primary pb-12 md:w-60 md:text-center">
 					Made by Karan with Love{' '}
-					<a href="https://github.com/harshchandwani">
-						More Projects
-					</a>
+					// <a href="https://github.com/harshchandwani">
+					// 	More Projects
+					// </a>
 				</p>
 			</div>
 		</div>
